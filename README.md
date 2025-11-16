@@ -15,7 +15,7 @@ The video shows the process of a seed sprouting and unfolding its leaves in stag
 ### Part1: The animation of the main circular pattern
 Each circle in my artworks is composed of three generating layers: **Inner layer、Middle layer、Outer layer**.
 
-In the original group code, these layers are static and are drawn immediately. In my personal version, I set the growth time and duration for each layer of the circle. To present an effect similar to **Send germination**: the circle grows from the seed (inside) into a fully developed shape (outside).
+In the original group code, these layers are static and are drawn immediately. In my personal version, I set the growth time and duration for each layer of the circle. To present an effect similar to **Seed growth**: the circle grows from the seed (inside) into a fully developed shape (outside).
 ### Part2: Line animations connecting circles
 In the original group code, the lines connecting the circles are static. I set them to start drawing from different times and extend from the starting point to the ending point as time changes.
 ## Technical Overview
